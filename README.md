@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Lluis Morey
 
-<!--
-**LluisMorey/LluisMorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Thanks for dropping by, hope you find some of my work interesting.
 
-Here are some ideas to get you started:
+- ⚡ I'm a BBA student from Esade Business School and Data Science graduated from Le Wagon.
+- 🌱 I'm interested in software, Data Science and Machine Learning applied to the business field.
+- 🔭 Python, SQL, Shell scripting (Linux & Windows)
+- 🥅 Goals: Learn more about Machine Learning and Data Science
+- 📫 You can reach me at: lluis.morey@esade.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
