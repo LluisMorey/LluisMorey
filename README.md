@@ -4,8 +4,8 @@
 
 - ⚡ I'm a BBA student from Esade Business School and Data Science graduated from Le Wagon.
 - 🌱 I'm interested in software, Data Science and Machine Learning applied to the business field.
-- 🔭 Python, SQL, Shell scripting (Linux & Windows)
-- 🥅 Goals: Learn more about Machine Learning and Data Science
+- 🔭 Python, SQL, Shell scripting (Linux & Windows).
+- 🥅 Goals: Learn more about Machine Learning and Data Science.
 - 📫 You can reach me at: lluis.morey@esade.edu
 
 <h3 align="left">Languages and Tools:</h3>
